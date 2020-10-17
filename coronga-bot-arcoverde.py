@@ -14,10 +14,10 @@ config={
 	'beep_times' : 1,
 	'headers' : {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36'},
 	'api' : {
-		'consumer_key' : 'wDwm9DsDa4mNHF4G2BuMno6Ju',
-		'consumer_secret' : 'L4CnnCuuQRC2wSHRK6OtPjQtCO8AJCx3MIRRFc1yMty0XjSoq4',
-		'access_token_key' : '818269355771383808-nEntBS1Yxe3qHp6hGDoqeSGf2xJXwbI',
-		'access_token_secret' : 'kumwpq3LoPdBvgAUTxf9aTE2G69HZY21xI7L6dE5eMFAY'
+		'consumer_key' : 'consumer_key',
+		'consumer_secret' : 'consumer_secret',
+		'access_token_key' : 'access_token_key',
+		'access_token_secret' : 'access_token_secret'
 	},
 	'message' : ''
 }
